@@ -1,4 +1,7 @@
-# islamic_duas_ktech
+# Islamic Duas Flutter App
+
+https://github.com/kainatnaeem/Islamic-Duas-Flutter-App/assets/54583829/ce6b5120-1071-4fcb-9165-813a026510fb
+
 
 A new Flutter project.
 
