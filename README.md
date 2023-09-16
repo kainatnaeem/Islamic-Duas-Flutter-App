@@ -2,8 +2,11 @@
 
 
 
+https://github.com/kainatnaeem/Islamic-Duas-Flutter-App/assets/54583829/ac122b3a-b45f-40e4-afe6-068c40ff6725
 
-https://github.com/kainatnaeem/Islamic-Duas-Flutter-App/assets/54583829/253235a3-0ee9-442f-a822-dd101bc6510e
+
+
+
 
 
 
