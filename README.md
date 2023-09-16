@@ -1,6 +1,13 @@
 # Islamic Duas Flutter App
 
-https://github.com/kainatnaeem/Islamic-Duas-Flutter-App/assets/54583829/ce6b5120-1071-4fcb-9165-813a026510fb
+
+
+https://github.com/kainatnaeem/Islamic-Duas-Flutter-App/assets/54583829/ac122b3a-b45f-40e4-afe6-068c40ff6725
+
+
+
+
+
 
 
 A new Flutter project.
