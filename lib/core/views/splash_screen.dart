@@ -2,7 +2,8 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:islamic_duas_ktech/core/views/home_Screen.dart';
 
-import '../utils/widgets/constants.dart';
+import '../utils/constants.dart';
+
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
