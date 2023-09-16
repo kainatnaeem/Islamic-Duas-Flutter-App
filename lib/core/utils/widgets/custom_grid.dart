@@ -27,10 +27,10 @@ class CustomGridItem extends StatelessWidget {
           child: Text(
             item,
             style: const TextStyle(
-              color: Colors.white,
+              color: Colors.black,
               fontWeight: FontWeight.w400,
               fontFamily: 'Nexa',
-              fontSize: 15.0,
+              fontSize: 14.0,
             ),
           ),
         ),

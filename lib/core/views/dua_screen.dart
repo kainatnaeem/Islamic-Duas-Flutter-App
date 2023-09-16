@@ -16,7 +16,7 @@ class _DuaScreenState extends State<DuaScreen> {
          appBar: AppBar(
         elevation: 0,
         leading: IconButton(
-          icon: Icon(Icons.arrow_back), // Add a back button icon
+          icon: const Icon(Icons.arrow_back), // Add a back button icon
           onPressed: () {
             Navigator.pop(context); // Go back to the previous screen
           },
@@ -24,7 +24,7 @@ class _DuaScreenState extends State<DuaScreen> {
       ),
         body: Center(
           child: Padding(
-            padding: const EdgeInsets.all(20.0),
+            padding: const EdgeInsets.all(50.0),
             child: Container(
               height:340,
               decoration: BoxDecoration(
@@ -39,11 +39,11 @@ class _DuaScreenState extends State<DuaScreen> {
                     color: Colors.black.withOpacity(0.2),
                     spreadRadius: 1,
                     blurRadius: 4,
-                    offset: Offset(0, 2),
+                    offset: const Offset(0, 2),
                   ),
                 ],
               ),
-              padding: EdgeInsets.all(16.0),
+              padding: const EdgeInsets.all(16.0),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -54,18 +54,18 @@ class _DuaScreenState extends State<DuaScreen> {
                       color: Colors.white,
                       fontWeight: FontWeight.w700,
                       fontFamily: 'Nexa',
-                      fontSize: 18.0,
+                      fontSize: 15.0,
                     ),
                   ),
-                  Icon(
+                  const Icon(
                     Icons.format_quote,
                     color: Colors.white,
                     size: 36.0,
                   ),
-                  SizedBox(height: 16.0),
+                  const SizedBox(height: 16.0),
                   Text(
                     widget.duas!,
-                    style: TextStyle(
+                    style: const TextStyle(
                       color: Colors.white,
                       fontSize: 18.0,
                       fontStyle: FontStyle.italic,
